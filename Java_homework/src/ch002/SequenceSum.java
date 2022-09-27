@@ -6,6 +6,7 @@ package ch002;
  * test
  * test
  * test
+ *
  */
 public class SequenceSum {
     public static void main(String[] args) {
