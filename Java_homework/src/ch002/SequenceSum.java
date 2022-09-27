@@ -7,7 +7,7 @@ package ch002;
  * test
  * test
  *test
- *
+ *1111
  */
 public class SequenceSum {
     public static void main(String[] args) {
