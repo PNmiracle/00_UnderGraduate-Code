@@ -3,6 +3,7 @@ package ch002;
 /**
  * @Author mapKey
  * @Date 2022-09-19-10:45 AM
+ * test
  */
 public class SequenceSum {
     public static void main(String[] args) {
