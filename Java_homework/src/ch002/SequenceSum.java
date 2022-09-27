@@ -8,6 +8,8 @@ package ch002;
  * test
  *test
  *1111
+ *1111
+ *
  */
 public class SequenceSum {
     public static void main(String[] args) {
