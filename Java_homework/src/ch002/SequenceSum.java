@@ -6,6 +6,7 @@ package ch002;
  * test
  * test
  * test
+ *test
  *
  */
 public class SequenceSum {
