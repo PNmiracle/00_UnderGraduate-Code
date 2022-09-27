@@ -1,0 +1,3 @@
+D:/00_UnderGraduate-Code/HomeWork/OS_Linux_code/cmake-build-debug/CMakeFiles/OS_Linux_code.dir
+D:/00_UnderGraduate-Code/HomeWork/OS_Linux_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/00_UnderGraduate-Code/HomeWork/OS_Linux_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
