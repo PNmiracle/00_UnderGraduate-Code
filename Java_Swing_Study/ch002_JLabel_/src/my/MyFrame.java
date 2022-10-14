@@ -1,6 +1,7 @@
 package my;
 
 import javax.swing.*;
+import java.awt.*;
 
 /**
  * @Author mapKey
@@ -9,7 +10,6 @@ import javax.swing.*;
 //窗口
 public class MyFrame extends JFrame {
     public MyFrame(String title) {
-        //this.setTitle(title);
         super(title);
         //容器(根容器), 面板
         JPanel root = new JPanel();
@@ -22,6 +22,14 @@ public class MyFrame extends JFrame {
         //
         JLabel label = new JLabel("mapKey");
         root.add(label);
-        root.add(new JLabel("Hello"));
+        label.setFont(new Font("微软雅黑",Font.BOLD, 30));
+        label.setForeground(new Color(0, 0, 255));
+
+        label.setOpaque(true);
+        label.setBackground(new Color(0,255,255));
+
+        label.setPreferredSize(new Dimension(600, 300));
+
+        label.setHorizontalAlignment(SwingConstants.CENTER);
     }
 }
