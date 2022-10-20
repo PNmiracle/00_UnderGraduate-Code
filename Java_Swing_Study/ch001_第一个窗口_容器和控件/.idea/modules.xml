@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch001_第一个窗口_容器和控件.iml" filepath="$PROJECT_DIR$/ch001_第一个窗口_容器和控件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ch002_JLabel/ch002_JLabel/ch002_JLabel.iml" filepath="$PROJECT_DIR$/../ch002_JLabel/ch002_JLabel/ch002_JLabel.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,2 @@
+D:\adeveloperTools\MinGW\MinGW\MinGW\bin\ar.exe qc libch005_.a CMakeFiles/ch005_.dir/library.c.obj
+D:\adeveloperTools\MinGW\MinGW\MinGW\bin\ranlib.exe libch005_.a

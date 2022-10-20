@@ -1,0 +1,5 @@
+D:/00_UnderGraduate-Code/HomeWork/C_CLion/cmake-build-debug/CMakeFiles/t1.dir
+D:/00_UnderGraduate-Code/HomeWork/C_CLion/cmake-build-debug/CMakeFiles/C_CLion.dir
+D:/00_UnderGraduate-Code/HomeWork/C_CLion/cmake-build-debug/CMakeFiles/t2.dir
+D:/00_UnderGraduate-Code/HomeWork/C_CLion/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/00_UnderGraduate-Code/HomeWork/C_CLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

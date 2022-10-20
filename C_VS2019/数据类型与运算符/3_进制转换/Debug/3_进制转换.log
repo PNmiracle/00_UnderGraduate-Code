@@ -1,0 +1,3 @@
+﻿  main.c
+D:\00_UnderGraduate-Code\HomeWork\C_VS2019\数据类型与运算符\3_进制转换\main.c(8,1): warning C4305: “初始化”: 从“double”到“float”截断
+  3_进制转换.vcxproj -> D:\00_UnderGraduate-Code\HomeWork\C_VS2019\数据类型与运算符\Debug\3_进制转换.exe

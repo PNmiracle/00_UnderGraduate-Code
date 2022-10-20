@@ -1,0 +1,3 @@
+.486
+DATA	SEGME
+

@@ -1,0 +1,81 @@
+Microsoft (R) Macro Assembler Version 6.11		    10/13/22 08:50:26
+tempfile.asm						     Page 1 - 1
+
+
+				.486
+ 0000				DATA SEGMENT USE16
+ 0000 42 43 24			BUF DB 42H,43H,'$'
+ 0003 = 0003			COUNT EQU $-BUF
+ 0003				DATA ENDS
+
+ 0000				CODE SEGMENT USE16
+				ASSUME CS:CODE,DS:DATA
+
+ 0000				BEG:
+ 0000  B8 ---- R			MOV AX,DATA
+ 0003  8E D8				MOV DS,AX
+					
+ 0005  B3 00				MOV BL,0  
+ 0007  BE 0000				MOV SI,0
+ 000A  B9 0003				MOV CX,COUNT
+ 000D				AGA:
+ 000D  80 BC 0000 R 42			CMP BUF[SI],42H
+ 0012  72 09				JB LAST   
+ 0014  80 BC 0000 R 45			CMP BUF[SI],45H
+ 0019  77 02				JA LAST 
+ 001B  FE C3				INC BL
+ 001D				LAST:
+ 001D  46				INC SI
+ 001E  E2 ED				LOOP AGA
+ 0020  B9 0008				MOV CX,8
+ 0023				M2:
+					
+ 0023  F6 C3 80				TEST BL,80H
+ 0026  75 08				JNZ M3
+ 0028  B2 30				MOV DL,'0'
+ 002A  B4 02				MOV AH,02H
+ 002C  CD 21				INT 21H
+ 002E  EB 06				JMP M4
+ 0030				M3:
+ 0030  B2 31				MOV DL,'1'
+ 0032  B4 02				MOV AH,02H
+ 0034  CD 21				INT 21H
+ 0036				M4:
+ 0036  D0 E3				SHL BL,1
+ 0038  E2 E9				LOOP M2
+					
+ 003A  B4 4C				MOV AH,4CH
+ 003C  CD 21				INT 21H
+ 003E				CODE ENDS
+					END BEG
+
+
+Microsoft (R) Macro Assembler Version 6.11		    10/13/22 08:50:26
+tempfile.asm						     Symbols 2 - 1
+
+
+
+
+Segments and Groups:
+
+                N a m e                 Size     Length   Align   Combine Class
+
+CODE . . . . . . . . . . . . . .	16 Bit	 003E	  Para	  Private 
+DATA . . . . . . . . . . . . . .	16 Bit	 0003	  Para	  Private 
+
+
+Symbols:
+
+                N a m e                 Type     Value    Attr
+
+AGA  . . . . . . . . . . . . . .	L Near	 000D	  CODE	
+BEG  . . . . . . . . . . . . . .	L Near	 0000	  CODE	
+BUF  . . . . . . . . . . . . . .	Byte	 0000	  DATA	
+COUNT  . . . . . . . . . . . . .	Number	 0003h	 
+LAST . . . . . . . . . . . . . .	L Near	 001D	  CODE	
+M2 . . . . . . . . . . . . . . .	L Near	 0023	  CODE	
+M3 . . . . . . . . . . . . . . .	L Near	 0030	  CODE	
+M4 . . . . . . . . . . . . . . .	L Near	 0036	  CODE	
+
+	   0 Warnings
+	   0 Errors

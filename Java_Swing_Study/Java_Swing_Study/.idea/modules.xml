@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ch000_初始模板/ch000_初始模板.iml" filepath="$PROJECT_DIR$/../ch000_初始模板/ch000_初始模板.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ch001_第一个窗口_容器和控件/ch001_第一个窗口_容器和控件.iml" filepath="$PROJECT_DIR$/../ch001_第一个窗口_容器和控件/ch001_第一个窗口_容器和控件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ch002_JLabel_/ch002_JLabel_.iml" filepath="$PROJECT_DIR$/../ch002_JLabel_/ch002_JLabel_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ch003_事件_显示时间/ch003_事件处理.iml" filepath="$PROJECT_DIR$/../ch003_事件_显示时间/ch003_事件处理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ch004_JTextField等控件/ch004_JTextField.iml" filepath="$PROJECT_DIR$/../ch004_JTextField等控件/ch004_JTextField.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ch005_彩色标签/ch005_.iml" filepath="$PROJECT_DIR$/../ch005_彩色标签/ch005_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ch006_布局器/ch006_布局器.iml" filepath="$PROJECT_DIR$/../ch006_布局器/ch006_布局器.iml" />
+    </modules>
+  </component>
+</project>
