@@ -1,0 +1,3 @@
+"E:\CLion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\N01_scanf_principle.dir/objects.a
+D:\adeveloperTools\MinGW\MinGW\MinGW\bin\ar.exe cr CMakeFiles\N01_scanf_principle.dir/objects.a @CMakeFiles\N01_scanf_principle.dir\objects1.rsp
+D:\adeveloperTools\MinGW\MinGW\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\N01_scanf_principle.dir/objects.a -Wl,--no-whole-archive -o N01_scanf_principle.exe -Wl,--out-implib,libN01_scanf_principle.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\N01_scanf_principle.dir\linklibs.rsp

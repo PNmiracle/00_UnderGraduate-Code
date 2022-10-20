@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/00_UnderGraduate-Code/HomeWork/C_Wangdao_CLion/Ch04/N01_scanf_principle/main.c
+stdio.h
+-
+

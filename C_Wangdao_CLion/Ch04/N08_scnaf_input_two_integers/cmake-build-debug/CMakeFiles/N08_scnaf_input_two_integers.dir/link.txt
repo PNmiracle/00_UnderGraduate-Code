@@ -1,0 +1,3 @@
+"E:\CLion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\N08_scnaf_input_two_integers.dir/objects.a
+D:\adeveloperTools\MinGW\MinGW\MinGW\bin\ar.exe cr CMakeFiles\N08_scnaf_input_two_integers.dir/objects.a @CMakeFiles\N08_scnaf_input_two_integers.dir\objects1.rsp
+D:\adeveloperTools\MinGW\MinGW\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\N08_scnaf_input_two_integers.dir/objects.a -Wl,--no-whole-archive -o N08_scnaf_input_two_integers.exe -Wl,--out-implib,libN08_scnaf_input_two_integers.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\N08_scnaf_input_two_integers.dir\linklibs.rsp
