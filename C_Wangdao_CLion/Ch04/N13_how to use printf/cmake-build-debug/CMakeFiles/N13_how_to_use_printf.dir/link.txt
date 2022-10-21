@@ -1,0 +1,3 @@
+"E:\CLion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\N13_how_to_use_printf.dir/objects.a
+D:\adeveloperTools\MinGW\MinGW\MinGW\bin\ar.exe cr CMakeFiles\N13_how_to_use_printf.dir/objects.a @CMakeFiles\N13_how_to_use_printf.dir\objects1.rsp
+D:\adeveloperTools\MinGW\MinGW\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\N13_how_to_use_printf.dir/objects.a -Wl,--no-whole-archive -o N13_how_to_use_printf.exe -Wl,--out-implib,libN13_how_to_use_printf.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\N13_how_to_use_printf.dir\linklibs.rsp

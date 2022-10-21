@@ -1,0 +1,10 @@
+"E:\CLion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "D:\00_UnderGraduate-Code\HomeWork\C_Wangdao_CLion\Ch04\N13_how to use printf"
+-- The C compiler identification is GNU 6.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/adeveloperTools/MinGW/MinGW/MinGW/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/00_UnderGraduate-Code/HomeWork/C_Wangdao_CLion/Ch04/N13_how to use printf/cmake-build-debug

@@ -1,0 +1,3 @@
+D:/00_UnderGraduate-Code/HomeWork/C_Wangdao_CLion/Ch04/N12_Mixed input to scanf/cmake-build-debug/CMakeFiles/N12_Mixed_input_to_scanf.dir
+D:/00_UnderGraduate-Code/HomeWork/C_Wangdao_CLion/Ch04/N12_Mixed input to scanf/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/00_UnderGraduate-Code/HomeWork/C_Wangdao_CLion/Ch04/N12_Mixed input to scanf/cmake-build-debug/CMakeFiles/rebuild_cache.dir

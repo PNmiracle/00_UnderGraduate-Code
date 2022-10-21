@@ -1,0 +1,2 @@
+D:\adeveloperTools\MinGW\MinGW\MinGW\bin\ar.exe qc libN10_scanf_loop_input.a CMakeFiles/N10_scanf_loop_input.dir/main.c.obj
+D:\adeveloperTools\MinGW\MinGW\MinGW\bin\ranlib.exe libN10_scanf_loop_input.a
