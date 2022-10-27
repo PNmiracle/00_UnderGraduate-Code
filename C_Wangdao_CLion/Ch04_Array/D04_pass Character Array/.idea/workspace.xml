@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="D04_pass_Character_Array" targetName="D04_pass_Character_Array" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58924eaf-ca5f-4794-a7a1-8344a4def92d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../D01_one_dimensional_array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D01_one_dimensional_array/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D01_one_dimensional_array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D01_one_dimensional_array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D01_one_dimensional_array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D01_one_dimensional_array/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D01_one_dimensional_array/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/3.20.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/main.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/D02_Character_array.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/D02_Character_array.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D02_Character array/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/main.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/D04_pass_Character_Array.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/D04_pass_Character_Array.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/3.20.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/main.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/D05_gets_and_puts.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/D05_gets_and_puts.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D05_gets and puts/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D06_Str functions/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D06_Str functions/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D06_Str functions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D06_Str functions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D06_Str functions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D06_Str functions/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D06_Str functions/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_homework/src/tst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OJ_wangdao/o_day 06 homework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../OJ_wangdao/o_day 06 homework/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2GRUk0FI4bXn8XmhJ63KAnrspmN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D04_pass_Character_Array" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="D04_pass_Character_Array" TARGET_NAME="D04_pass_Character_Array" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="D04_pass_Character_Array" RUN_TARGET_NAME="D04_pass_Character_Array">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58924eaf-ca5f-4794-a7a1-8344a4def92d" name="Changes" comment="" />
+      <created>1666351029222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666351029222</updated>
+      <workItem from="1666351032914" duration="2033000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

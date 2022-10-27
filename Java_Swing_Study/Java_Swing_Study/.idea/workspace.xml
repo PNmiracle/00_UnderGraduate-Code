@@ -1,7 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d1f33fc-3058-422b-9ac5-928fefefda50" name="Changes" comment="" />
+    <list default="true" id="5d1f33fc-3058-422b-9ac5-928fefefda50" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D01_one_dimensional_array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D01_one_dimensional_array/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D01_one_dimensional_array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D01_one_dimensional_array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D01_one_dimensional_array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D01_one_dimensional_array/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D01_one_dimensional_array/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/3.20.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/main.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/D02_Character_array.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/D02_Character_array.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/D02_Character_array.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D02_Character array/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/3.20.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/main.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/D04_pass_Character_Array.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/D04_pass_Character_Array.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/D04_pass_Character_Array.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D04_pass Character Array/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/3.20.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/main.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/D05_gets_and_puts.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/D05_gets_and_puts.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/D05_gets_and_puts.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D05_gets and puts/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D06_Str functions/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D06_Str functions/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D06_Str functions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D06_Str functions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D06_Str functions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D06_Str functions/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D06_Str functions/b_str.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D06_Str functions/ch05_pointer/a_str_function.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D06_Str functions/m.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04_Array/D06_Str functions/test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch05_Pointer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch05_Pointer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch05_Pointer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch05_Pointer/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch05_Pointer/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B7/src/五子棋/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B7/src/五子棋/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_homework/.idea/libraries/app.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04/N10_scanf_loop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04/N10_scanf_loop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04/N10_scanf_loop/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/Ch04/N10_scanf_loop/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C_Wangdao_CLion/OJ_wangdao/o_day 06 homework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C_Wangdao_CLion/OJ_wangdao/o_day 06 homework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,10 +221,16 @@
       <recent name="my" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyDemo (4)">
-    <configuration name="MyDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyDemo" />
-      <module name="ch003_事件处理" />
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="五子棋.Demo" />
+      <module name="B7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="五子棋.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -121,11 +284,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.MyDemo (4)" />
         <item itemvalue="Application.MyDemo (3)" />
         <item itemvalue="Application.MyDemo" />
         <item itemvalue="Application.MyDemo (2)" />
-        <item itemvalue="Application.MyDemo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +305,8 @@
       <workItem from="1665821146416" duration="3803000" />
       <workItem from="1665994845200" duration="847000" />
       <workItem from="1666164904184" duration="58000" />
+      <workItem from="1666688263750" duration="1000" />
+      <workItem from="1666688322530" duration="1838000" />
     </task>
     <task id="LOCAL-00001" summary="第一个窗口, 容器与控件">
       <created>1665651844255</created>

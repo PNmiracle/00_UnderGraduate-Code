@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../B7/B7.iml" filepath="$PROJECT_DIR$/../B7/B7.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ch000_初始模板/ch000_初始模板.iml" filepath="$PROJECT_DIR$/../ch000_初始模板/ch000_初始模板.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ch001_第一个窗口_容器和控件/ch001_第一个窗口_容器和控件.iml" filepath="$PROJECT_DIR$/../ch001_第一个窗口_容器和控件/ch001_第一个窗口_容器和控件.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ch002_JLabel_/ch002_JLabel_.iml" filepath="$PROJECT_DIR$/../ch002_JLabel_/ch002_JLabel_.iml" />
