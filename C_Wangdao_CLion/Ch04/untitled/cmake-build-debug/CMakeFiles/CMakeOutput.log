@@ -1,0 +1,14 @@
+The system is: Windows - 10.0.19044 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/adeveloperTools/MinGW/MinGW/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "D:/00_UnderGraduate-Code/HomeWork/C_Wangdao_CLion/Ch04/untitled/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe"
+

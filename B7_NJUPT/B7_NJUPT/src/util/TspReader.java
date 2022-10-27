@@ -40,11 +40,11 @@ public class TspReader {
 	}
 	
 
-	/*public static void main(String[] args) throws IOException {
+	public static void main(String[] args) throws IOException {
 		TspProblem problem = TspReader.readTSP("resources/eil23.txt", 23);
 		int[] x = problem.getxCoors();
 		for (int i=0;i<x.length;i++) {
 			System.out.println(x[i]);
 		}
-	}*/
+	}
 }

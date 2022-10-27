@@ -1,0 +1,3 @@
+"E:\CLion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Ch05_Pointer.dir/objects.a
+D:\adeveloperTools\MinGW\MinGW\MinGW\bin\ar.exe cr CMakeFiles\Ch05_Pointer.dir/objects.a @CMakeFiles\Ch05_Pointer.dir\objects1.rsp
+D:\adeveloperTools\MinGW\MinGW\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Ch05_Pointer.dir/objects.a -Wl,--no-whole-archive -o Ch05_Pointer.exe -Wl,--out-implib,libCh05_Pointer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Ch05_Pointer.dir\linklibs.rsp
