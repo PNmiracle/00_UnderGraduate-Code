@@ -7,6 +7,9 @@ class Bread {
 Interface MagicHouseVIP{
     void getService(VIPMagicMachine vmm, String gender)
 }
+Interface MagicHouseSVIP {
+    void getService(SVIPMagicMachine svmm, String gender, boolean isDec, int diff);
+}
 class MagicMachine {
     + int incHeight(int height)
 }
@@ -17,6 +20,14 @@ class VIPMagicMachine extends MagicMachine{
 
     + int incHeight(int height, String gender)
 }
+class SVIPMagicMachine extends MagicMachine {
+    - String boy = "男生";
+    - String girl = "女生";
+    - int balance;
+    + int getBalance()
+    + boolean canChangeH(String gender, int diff, boolean isDec)
+    + void depositRedPacket(int total)
+ }
 
 class Person {
      - int height;
@@ -27,10 +38,13 @@ class Person {
      + String getGender()
      + void setGender(String gender)
 }
-class XiaoMing extends Person {
+class XiaoMing extends Person implements MagicHouseSVIP {
     + XiaoMing(int height)
     + void eat(Bread brd)
     + void useMachine(MagicMachine mm)
+    + void getService(SVIPMagicMachine svmm, String gender, boolean isDec, int diff)
+
+
 }
 
 class XiaoFang extends Person implements MagicHouseVIP{
@@ -42,10 +56,18 @@ class XiaoZhang extends Person implements MagicHouseVIP{
     + void getService(VIPMagicMachine vmm, String gender)
 }
 
+'class NoSuchGenderException extends Exception
+class NotEnoughException extends Exception{
+    + NotEnoughException(String message) {
+
+}
+
 XiaoMing ..> Bread : 依赖
 XiaoMing ..> MagicMachine: 依赖
+XiaoMing ..> SVIPMagicMachine: 依赖
 XiaoZhang ..> VIPMagicMachine: 依赖
 XiaoFang ..> VIPMagicMachine: 依赖
+SVIPMagicMachine ..> NotEnoughException: 依赖
 
 
 @enduml

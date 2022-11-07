@@ -22,4 +22,25 @@ public class PrintUtil {
         System.out.println("小张: 嘻嘻嘻嘻嘻嘻嘻");
         System.out.println("老板: 红红火火恍恍惚惚或或或或");
     }
+
+    public static void begin2() {
+        System.out.println("#####################");
+        System.out.println("魔法屋的故事续集2---魔法机器的惊魂一刻!");
+        System.out.println("#####################");
+        System.out.println("老板: 欢迎光临魔法屋!");
+        System.out.println("老板: 好久不见, 有什么能帮您的吗?");
+        System.out.println("小明: 我想变矮一点点, 请问你们有变矮服务吗?");
+        System.out.println("老板: 您真幸运, 我们刚推出超级VIP");
+        System.out.println("老板: 超级VIP, 可以变高, 可以变矮");
+        System.out.println("老板: 注册就送50元账户红包2个");
+        System.out.println("小明: 变矮多少钱");
+        System.out.println("老板: 高低一个价, 男生每厘米10元, 女生每厘米5元");
+        System.out.println("小明: 有点贵啊, 试试吧, 反正送了100, 我要减去10cm");
+
+    }
+
+    public static void hahaha() {
+        System.out.println("小明: 哈哈哈哈哈哈哈哈");
+        System.out.println("老板: 红红火火恍恍惚惚或或或或好好哈哈哈哈");
+    }
 }
