@@ -2,9 +2,10 @@
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/resources" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/AppMain.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/SA.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/util/TspProblem.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/util/TspReader.java" charset="GBK" />
-    <file url="PROJECT" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
   </component>
 </project>

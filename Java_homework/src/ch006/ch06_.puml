@@ -1,0 +1,51 @@
+@startuml
+'https://plantuml.com/class-diagram
+class Bread {
+    + boolean isEaten
+    + void beEaten()
+}
+Interface MagicHouseVIP{
+    void getService(VIPMagicMachine vmm, String gender)
+}
+class MagicMachine {
+    + int incHeight(int height)
+}
+class VIPMagicMachine extends MagicMachine{
+    - String boy
+    - String girl
+    - int inc
+
+    + int incHeight(int height, String gender)
+}
+
+class Person {
+     - int height;
+     - String gender;
+     + Person(int height)
+     + int getHeight()
+     + void setHeight()
+     + String getGender()
+     + void setGender(String gender)
+}
+class XiaoMing extends Person {
+    + XiaoMing(int height)
+    + void eat(Bread brd)
+    + void useMachine(MagicMachine mm)
+}
+
+class XiaoFang extends Person implements MagicHouseVIP{
+    + XiaoFang(int height)
+    + void getService(VIPMagicMachine vmm, String gender)
+}
+class XiaoZhang extends Person implements MagicHouseVIP{
+    + XiaoZhang(int height)
+    + void getService(VIPMagicMachine vmm, String gender)
+}
+
+XiaoMing ..> Bread : 依赖
+XiaoMing ..> MagicMachine: 依赖
+XiaoZhang ..> VIPMagicMachine: 依赖
+XiaoFang ..> VIPMagicMachine: 依赖
+
+
+@enduml

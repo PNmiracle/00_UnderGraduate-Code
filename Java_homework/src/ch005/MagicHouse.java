@@ -2,10 +2,25 @@ package ch005;
 
 /**
  * @Author mapKey
- * @Date 2022-10-17-3:46 PM
+ * @Date 2022-10-17-3:42 PM
  */
 public class MagicHouse {
-    public MagicHouse() {
+    public static void main(String[] args) {
         System.out.println("进入魔法屋前");
+        Person xiaoMing = new Person("小明", 140);
+        System.out.println("=========");
+        //吃面包
+        System.out.println("小明吃面包长高");
+        Bread b1 = new Bread(xiaoMing);
+        b1.eaten();
+        Bread b2 = new Bread(xiaoMing);
+        b2.eaten();
+        //魔法机器
+        System.out.println("=========");
+        System.out.println("太慢了, 小明尝试魔法机器");
+        MagicMachine magicMachine = new MagicMachine(xiaoMing);
+        magicMachine.tryUse();
+        magicMachine.tryUse();
+
     }
 }
